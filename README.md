@@ -1,10 +1,19 @@
 
-# Visualization of large amount of data for personalized medicine<br>[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Wanghley/PIBIC-Strategies-Data-Visualization-Medicine/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]<br>
+# Visualization of large amount of data for personalized medicine<br>[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Wanghley/PIBIC-Strategies-Data-Visualization-Medicine/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)<br>
 Project of criptography model creation for educational purposes in order to test new ways of secure data as part of the process of cybersecurity. Furthermore, this repository contains a model in HTML and PNG explaining the logic of the model proposed and also a code of test made in ```python``` to exemplify the model.
 
 ## Getting Started
 
 This is a project proposing a new method of crptography to be used based in the highest primer number known, called M82589933, which is 2^(82,589,933)-1. Based on this and some mathematical manipulations messages are encrypted.
+
+
+### Model describing
+![](docs/encrypt.png)
+![](docs/decrypt.png)
+
+Find in more details in [HTML](https://github.com/Wanghley/M82589933-Criptography/blob/master/docs/Wanghley's%20encryptation.html) file
+
+## Running
 
 ### Prerequisites
 
@@ -14,16 +23,8 @@ You need to install these things to run the project
 pip3 install rich
 ```
 
-### Model describing
-![](docs/encrypt.png)
-![](docs/decrypt.png)
-
-Find in more details in [HTML](https://github.com/Wanghley/M82589933-Criptography/blob/master/docs/Wanghley's%20encryptation.html) file
-### Running
-
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
 ```
 git clone https://github.com/Wanghley/M82589933-Criptography
