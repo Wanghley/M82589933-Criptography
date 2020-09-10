@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * This is an educational software only
 * You can copy, share and modify the project
-* Feel free to use the code but do not forget to reference us
+* Feel free to use the code but do not forget to reference me
